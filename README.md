@@ -1,0 +1,1 @@
+# Receipt_Data_to_Database_Using_OCR_ML
